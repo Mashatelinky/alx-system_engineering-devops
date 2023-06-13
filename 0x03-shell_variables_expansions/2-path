@@ -1,2 +1,2 @@
-#I/bin/bash
-export PATH=$PATH:/action
+#I/bin/bash 
+PATH=$PATH:/actioin
